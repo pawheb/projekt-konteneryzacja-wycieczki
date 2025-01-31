@@ -10,6 +10,9 @@ class Trip(models.Model):
     end_date = models.DateField()
     price = models.DecimalField(max_digits=6, decimal_places=2)
 
+    def __str__(self):
+        return self.name
+
 class Attraction(models.Model):
     class Category(IntEnum):
         SIGHTSEEING = 0
@@ -27,3 +30,6 @@ class Attraction(models.Model):
     description = models.CharField(max_length=4096)
     type = models.IntegerField(choices=Category.choices())
     trips = models.ManyToManyField(Trip)
+
+    def __str__(self):
+        return self.name
