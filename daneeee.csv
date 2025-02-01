@@ -1,0 +1,558 @@
+ID;Nazwa Atrakcji;Cena;Opis;Kategoria;Miasto
+1;Statua Wolności i Ellis Island;73,08;Symbol wolności i demokracji, oferujący zwiedzanie wyspy Liberty oraz muzeum imigracji na Ellis Island. ;Zwiedzanie;NOWY JORK
+2;Empire State Building;170,52;Ikoniczny wieżowiec z tarasem widokowym na 86. piętrze, oferujący panoramiczne widoki na miasto. ;Zwiedzanie;NOWY JORK
+3;Central Park;0;Rozległy park miejski z licznymi ścieżkami, jeziorami i atrakcjami rekreacyjnymi.;Rekreacja;NOWY JORK
+4;Muzeum Metropolitalne Sztuki (Met);267;Jedno z największych muzeów sztuki na świecie, z kolekcjami z różnych epok i kultur. ;Zwiedzanie;NOWY JORK
+5;Times Square;0;Tętniące życiem skrzyżowanie z jasnymi billboardami, teatrami i sklepami.;Rozrywka;NOWY JORK
+6;Most Brookliński;0;Historyczny most łączący Manhattan z Brooklynem, oferujący malownicze widoki.;Zwiedzanie;NOWY JORK
+7;Muzeum Sztuki Nowoczesnej (MoMA);123;Wiodące muzeum sztuki współczesnej z dziełami takich artystów jak Van Gogh, Warhol czy Picasso. ;Zwiedzanie;NOWY JORK
+8;Broadway;406;Ceny od 100 USD – dzielnica teatralna znana z licznych produkcji scenicznych i musicali.  ;Rozrywka;NOWY JORK
+9;Fifth Avenue;0;Znana ulica handlowa z luksusowymi butikami i flagowymi sklepami.;Zakupy;NOWY JORK
+10;Rockefeller Center;0;"Kompleks komercyjny z lodowiskiem, tarasem widokowym ""Top of the Rock"" i słynną choinką świąteczną.";Zwiedzanie;NOWY JORK
+11;Amerykańskie Muzeum Historii Naturalnej;123;Rozległe muzeum z eksponatami dotyczącymi przyrody, dinozaurów i kosmosu.  ;Zwiedzanie;NOWY JORK
+12;High Line;0;Podniesiony park liniowy zbudowany na dawnej linii kolejowej, oferujący unikalne widoki na miasto.;Rekreacja;NOWY JORK
+13;Katedra św. Patryka;0;Neogotycka katedra położona przy Fifth Avenue.;Zwiedzanie;NOWY JORK
+14;Wall Street;0;"Centrum finansowe z New York Stock Exchange i słynną rzeźbą ""Charging Bull"".";Zwiedzanie;NOWY JORK
+15;Bryant Park;0;Popularny park miejski z sezonowymi wydarzeniami, lodowiskiem i kawiarenkami.;Rekreacja;NOWY JORK
+16;Chinatown;0;Tętniąca życiem dzielnica z autentycznymi restauracjami i sklepami oferującymi azjatyckie produkty.;Kultura;NOWY JORK
+17;Muzeum Guggenheima;101,5;Muzeum sztuki współczesnej z charakterystyczną spiralną architekturą autorstwa Franka Lloyda Wrighta.;Zwiedzanie;NOWY JORK
+18;Intrepid Sea, Air & Space Museum;133,98;Muzeum na lotniskowcu USS Intrepid, prezentujące eksponaty związane z lotnictwem, marynarką wojenną i eksploracją kosmosu. ;Zwiedzanie;NOWY JORK
+19;Muzeum 9/11;135;Muzeum upamiętniające ofiary zamachów z 11 września 2001 roku, z eksponatami i relacjami świadków.  ;Zwiedzanie;NOWY JORK
+20;One World Observatory;189;Taras widokowy na szczycie One World Trade Center, oferujący panoramiczne widoki na Nowy Jork.  ;Zwiedzanie;NOWY JORK
+21;British Museum;0;Jedno z największych muzeów na świecie, z kolekcjami obejmującymi dwa miliony lat historii ludzkości.;Zwiedzanie;LONDYN
+22;Tower of London;150,7;Historyczna twierdza, która służyła jako pałac, więzienie i skarbiec, obecnie dom dla klejnotów koronnych. ;Zwiedzanie;LONDYN
+23;London Eye;136,08;Gigantyczne diabelskie koło oferujące panoramiczne widoki na miasto.;Rozrywka;LONDYN
+24;Buckingham Palace;133,56;Oficjalna rezydencja brytyjskiego monarchy. Zwiedzanie obejmuje State Rooms i obserwację zmiany warty.;Zwiedzanie;LONDYN
+25;Hyde Park;0;Jeden z największych parków w Londynie, idealny na spacery, pikniki i rekreację.;Rekreacja;LONDYN
+26;Westminster Abbey;120,96;Gotycka katedra, miejsce koronacji i pochówku wielu brytyjskich monarchów.;Zwiedzanie;LONDYN
+27;The Shard;161,28;Najwyższy budynek w Londynie z tarasem widokowym oferującym 360-stopniowe widoki na miasto.;Zwiedzanie;LONDYN
+28;Camden Market;0;Tętniący życiem rynek z różnorodnymi straganami oferującymi jedzenie, ubrania i rękodzieło.;Zakupy;LONDYN
+29;Tate Modern;0;Muzeum sztuki nowoczesnej mieszczące się w dawnej elektrowni, z dziełami takich artystów jak Picasso czy Warhol.;Zwiedzanie;LONDYN
+30;St. Paul's Cathedral;100,8;Imponująca katedra z charakterystyczną kopułą, zaprojektowana przez Sir Christophera Wrena.;Zwiedzanie;LONDYN
+31;Covent Garden;0;Popularna dzielnica z rynkiem, sklepami, restauracjami i ulicznymi artystami.;Rozrywka;LONDYN
+32;Natural History Museum;0;Muzeum przyrodnicze z imponującą kolekcją dinozaurów i innych eksponatów związanych z naturą.;Zwiedzanie;LONDYN
+33;Science Museum;0;Interaktywne muzeum prezentujące osiągnięcia nauki i technologii.;Zwiedzanie;LONDYN
+34;Kensington Gardens;0;Piękne ogrody otaczające Pałac Kensington, idealne na relaks i spacery.;Rekreacja;LONDYN
+35;Soho;0;Tętniąca życiem dzielnica znana z licznych barów, klubów i restauracji. Centrum życia nocnego Londynu.;Rozrywka;LONDYN
+36;Greenwich Observatory;80,64;Historyczne obserwatorium, przez które przebiega południk zerowy. Oferuje wgląd w historię astronomii.;Zwiedzanie;LONDYN
+37;Portobello Road Market;0;Słynny rynek antyków i unikatowych przedmiotów, odbywający się w soboty.;Zakupy;LONDYN
+38;Houses of Parliament;141,12;Siedziba brytyjskiego parlamentu z charakterystyczną wieżą zegarową Big Ben.;Zwiedzanie;LONDYN
+39;Victoria and Albert Museum;0;Muzeum sztuki i designu z bogatymi kolekcjami obejmującymi m.in. modę, ceramikę i rzeźbę.;Zwiedzanie;LONDYN
+40;Regent's Park;0;Malowniczy park z ogrodami różanymi, teatrem na świeżym powietrzu i zoo.;Rekreacja;LONDYN
+41;Wieża Eiffla;108,94;Ikoniczna wieża z żelaza, oferująca panoramiczne widoki na miasto z trzech poziomów.;Zwiedzanie;Paryż
+42;Luwr;71,57;Największe muzeum sztuki na świecie, dom Mona Lisy i wielu innych arcydzieł.;Zwiedzanie;Paryż
+43;Katedra Notre-Dame;0;Gotycka katedra znana z imponujących witraży i architektury, obecnie w trakcie renowacji po pożarze w 2019 roku.;Zwiedzanie;Paryż
+44;Sainte-Chapelle;48,42;Kaplica znana z oszałamiających witraży przedstawiających biblijne sceny.;Zwiedzanie;Paryż
+45;Muzeum Orsay;67,36;Muzeum sztuki impresjonistycznej i postimpresjonistycznej mieszczące się w dawnej stacji kolejowej.;Zwiedzanie;Paryż
+46;Łuk Triumfalny;54,73;Monument upamiętniający poległych wojen napoleońskich, z tarasem widokowym na szczycie.;Zwiedzanie;Paryż
+47;Montmartre;0;Artystyczna dzielnica znana z bazyliki Sacré-Cœur, wąskich uliczek i kawiarni.;Kultura;Paryż
+48;Pałac Wersalski;75,78;Luksusowy pałac królów Francji z rozległymi ogrodami i salą lustrzaną.;Zwiedzanie;Paryż
+49;Centre Pompidou;58,94;Muzeum sztuki nowoczesnej z charakterystyczną architekturą i bogatą kolekcją dzieł.;Zwiedzanie;Paryż
+50;Pola Elizejskie;0;Słynna aleja pełna sklepów, restauracji i teatrów, prowadząca do Łuku Triumfalnego.;Zakupy;Paryż
+51;Ogrody Luksemburskie;0;Malowniczy park z pałacem, fontannami i licznymi alejkami spacerowymi.;Rekreacja;Paryż
+52;Moulin Rouge;366,27;Słynny kabaret oferujący widowiskowe pokazy taneczne i muzyczne.;Rozrywka;Paryż
+53;Katakumby Paryża;122,09;Podziemne ossuarium zawierające szczątki milionów paryżan, dostępne do zwiedzania.;Zwiedzanie;Paryż
+54;Plac de la Concorde;0;Największy plac w Paryżu, znany z obelisku i fontann, o bogatej historii.;Zwiedzanie;Paryż
+55;Opera Garnier;58,94;Imponujący budynek opery z bogato zdobionym wnętrzem i słynnym plafonem Chagalla.;Zwiedzanie;Paryż
+56;Muzeum Rodina;54,73;Muzeum poświęcone twórczości rzeźbiarza Augusta Rodina, z pięknymi ogrodami.;Zwiedzanie;Paryż
+57;Plac Vendôme;0;Elegancki plac otoczony luksusowymi butikami i hotelami, z kolumną Napoleona pośrodku.;Zakupy;Paryż
+58;Muzeum Cluny;50,52;Muzeum średniowiecza z kolekcją tapiserii, rzeźb i artefaktów.;Zwiedzanie;Paryż
+59;La Défense;0;Nowoczesna dzielnica biznesowa z imponującymi wieżowcami i Grande Arche.;Zwiedzanie;Paryż
+60;Disneyland Paryż;366,27;Popularny park rozrywki z licznymi atrakcjami dla dzieci i dorosłych.;Rozrywka;Paryż
+61;Sagrada Família;109,46;Niedokończona bazylika zaprojektowana przez Antoniego Gaudíego, będąca symbolem Barcelony.  ;Zwiedzanie;Barcelona
+62;Park Güell;42,1;Kolorowy park z mozaikami i unikalnymi strukturami, również autorstwa Gaudíego.  ;Zwiedzanie;Barcelona
+63;Casa Batlló;105,25;Modernistyczna kamienica o fantazyjnej fasadzie, jedno z arcydzieł Gaudíego.  ;Zwiedzanie;Barcelona
+64;La Rambla;0;Tętniąca życiem promenada pełna sklepów, restauracji i artystów ulicznych.;Rozrywka;Barcelona
+65;Katedra w Barcelonie;37,89;Gotycka katedra z XIII wieku, znana z pięknych witraży i krużganków.;Zwiedzanie;Barcelona
+66;Muzeum Picassa;50,52;Kolekcja dzieł Pabla Picassa, ukazująca jego wczesne lata twórczości.;Zwiedzanie;Barcelona
+67;Camp Nou;117,88;Stadion FC Barcelony, oferujący zwiedzanie muzeum i zaplecza stadionu.;Rozrywka;Barcelona
+68;Plaża Barceloneta;0;Popularna plaża miejska, idealna do opalania i kąpieli w Morzu Śródziemnym.;Plażowanie;Barcelona
+69;Montjuïc;0;Wzgórze z zamkiem, ogrodami i obiektami olimpijskimi, oferujące panoramiczne widoki na miasto.;Zwiedzanie;Barcelona
+70;Pałac Muzyki Katalońskiej;84,2;Modernistyczna sala koncertowa o bogato zdobionym wnętrzu.;Zwiedzanie;Barcelona
+71;Tibidabo;147,35;Wzgórze z parkiem rozrywki i kościołem, oferujące widoki na całą Barcelonę.;Rozrywka;Barcelona
+72;Mercat de Sant Josep de la Boqueria;0;Słynny targ oferujący świeże produkty, tapas i lokalne specjały.;Kulinaria;Barcelona
+73;Fundacja Joana Miró;54,73;Muzeum poświęcone twórczości katalońskiego artysty Joana Miró.;Zwiedzanie;Barcelona
+74;Plaça d'Espanya;0;Imponujący plac z fontannami i monumentalnymi budynkami.;Zwiedzanie;Barcelona
+75;Poble Espanyol;58,94;Otwarty skansen prezentujący architekturę i kulturę różnych regionów Hiszpanii.;Zwiedzanie;Barcelona
+76;Akwarium w Barcelonie;88,41;Jedno z największych akwariów w Europie, z tunelem podwodnym i różnorodnymi gatunkami morskimi.;Rozrywka;Barcelona
+77;Muzeum Narodowe Sztuki Katalonii (MNAC);50,52;Muzeum z bogatą kolekcją sztuki romańskiej, gotyckiej i nowoczesnej.;Zwiedzanie;Barcelona
+78;Plaça de Catalunya;0;Centralny plac Barcelony, punkt wyjścia do wielu atrakcji turystycznych.;Zwiedzanie;Barcelona
+79;Muzeum Historii Barcelony (MUHBA);29,47;Muzeum prezentujące historię miasta od czasów rzymskich po współczesność.;Zwiedzanie;Barcelona
+80;Góra Stołowa (Table Mountain);86,9;Ikoniczna góra o płaskim szczycie, oferująca panoramiczne widoki na miasto i ocean.;Wędrówki;Kapsztad
+81;Nabrzeże V&A Waterfront;0;Tętniąca życiem dzielnica portowa z licznymi sklepami, restauracjami i atrakcjami rozrywkowymi.;Rozrywka;Kapsztad
+82;Wyspa Robben (Robben Island);132;Historyczna wyspa, na której więziono Nelsona Mandelę. Obecnie muzeum i miejsce dziedzictwa UNESCO.;Zwiedzanie;Kapsztad
+83;Ogrody Kirstenbosch;46,2;Jedne z najpiękniejszych ogrodów botanicznych na świecie, położone u podnóża Góry Stołowej.;Rekreacja;Kapsztad
+84;Plaża Boulders;35,2;Słynna plaża zamieszkana przez kolonię pingwinów afrykańskich, idealna do obserwacji tych uroczych ptaków.;Zwiedzanie;Kapsztad
+85;Dzielnica Bo-Kaap;0;Historyczna dzielnica znana z kolorowych domów i brukowanych uliczek – centrum kultury malajskiej.;Zwiedzanie;Kapsztad
+86;Cape Point;79,2;Malowniczy przylądek oferujący spektakularne widoki na ocean i klify, część Parku Narodowego Góry Stołowej.;Zwiedzanie;Kapsztad
+87;Zamek Dobrej Nadziei (Castle of Good Hope);11;Najstarszy zachowany budynek kolonialny w RPA, oferujący zwiedzanie fortecy i muzeum.;Zwiedzanie;Kapsztad
+88;Muzeum Zeitz MOCAA;46,2;Największe muzeum sztuki współczesnej w Afryce, mieszczące się w zrewitalizowanym silosie zbożowym.;Zwiedzanie;Kapsztad
+89;Plaże Clifton;0;Cztery malownicze plaże oddzielone granitowymi głazami, popularne wśród mieszkańców i turystów.;Plażowanie;Kapsztad
+90;Lion's Head;0;Góra o charakterystycznym kształcie, oferująca popularny szlak turystyczny z widokami na Kapsztad i ocean.;Wędrówki;Kapsztad
+91;Muzeum Dystryktu Szóstego;9,9;Muzeum upamiętniające historię przesiedleń mieszkańców Dystryktu Szóstego podczas apartheidu.;Zwiedzanie;Kapsztad
+92;Akwarium Dwóch Oceanów (Two Oceans Aquarium);46,2;Akwarium prezentujące bogactwo fauny morskiej Oceanu Atlantyckiego i Indyjskiego.;Rozrywka;Kapsztad
+93;Signal Hill;0;Wzgórze oferujące panoramiczne widoki na miasto, popularne miejsce do obserwacji zachodów słońca.;Zwiedzanie;Kapsztad
+94;Muzeum Iziko South African;6,6;Muzeum prezentujące bogatą kolekcję eksponatów z zakresu historii naturalnej i kultury.;Zwiedzanie;Kapsztad
+95;Plaża Camps Bay;0;Popularna plaża z białym piaskiem i turkusową wodą, otoczona restauracjami i barami.;Plażowanie;Kapsztad
+96;Groot Constantia;26,4;Najstarsza winnica w RPA, oferująca degustacje win i zwiedzanie historycznych budynków.;Zwiedzanie;Kapsztad
+97;Chapman's Peak Drive;11;Jedna z najpiękniejszych tras widokowych na świecie, biegnąca wzdłuż wybrzeża z zapierającymi dech w piersiach widokami.;Rekreacja;Kapsztad
+98;Muzeum Serca (Heart of Cape Town Museum);66;Muzeum.;Zwiedzanie;Kapsztad
+99;Burj Khalifa;165,39;Najwyższy budynek na świecie o wysokości 828 metrów Oferuje tarasy widokowe na 124., 125. i 148. piętrze z panoramicznymi widokami na miasto.;Zwiedzanie;Dubaj
+100;Dubai Mall;0;Jedno z największych centrów handlowych na świecie z ponad 1200 sklepami, restauracjami, akwarium i lodowiskiem.;Rozrywka;Dubaj
+101;Fontanny Dubajskie (Dubai Fountain);0;Spektakularne pokazy wodne z synchronizacją muzyki i świateł, odbywające się codziennie na jeziorze Burj Lake.;Rozrywka;Dubaj
+102;Palm Jumeirah;0;Sztuczna wyspa w kształcie palmy, na której znajdują się luksusowe hotele, restauracje i parki rozrywki.;Zwiedzanie;Dubaj
+103;Burj Al Arab;443,89;Luksusowy hotel w kształcie żagla, uznawany za jeden z najbardziej ekskluzywnych na świecie. Oferuje wycieczki z przewodnikiem i ekskluzywne restauracje.;Zwiedzanie;Dubaj
+104;Dubai Marina;0;Nowoczesna dzielnica z kanałem wodnym otoczonym wieżowcami, restauracjami i sklepami. Idealna na spacery i rejsy.;Zwiedzanie;Dubaj
+105;Muzeum Dubaju (Dubai Museum);3,33;Muzeum mieszczące się w XIX-wiecznym forcie Al Fahidi, prezentujące historię i kulturę Dubaju.;Zwiedzanie;Dubaj
+106;Dzielnica Al Fahidi (Al Fahidi Historical Neighborhood);0;Jedna z najstarszych dzielnic Dubaju z tradycyjną architekturą, muzeami i galeriami sztuki.;Kultura;Dubaj
+107;Dubai Creek (przeprawa łodzią abra);1,11;Naturalny kanał wodny dzielący miasto, oferujący tradycyjne przeprawy łodziami abra oraz widoki na stare i nowe części Dubaju.;Zwiedzanie;Dubaj
+108;Meczet Jumeirah (Jumeirah Mosque);27,75;Jedyny meczet w Dubaju otwarty dla niemuzułmanów. Oferuje wycieczki edukacyjne na temat islamu i kultury emirackiej.;Zwiedzanie;Dubaj
+109;Dubai Frame;55,5;Gigantyczna ramka o wysokości 150 metrów, oferująca widoki na stare i nowe części miasta z szklanego mostu.;Zwiedzanie;Dubaj
+110;Ski Dubai;210,9;Kryty ośrodek narciarski z prawdziwym śniegiem, oferujący zjazdy na nartach, snowboardzie oraz spotkania z pingwinami.;Rozrywka;Dubaj
+111;Global Village;16,65;Sezonowy park rozrywki i kulturalny, prezentujący pawilony z różnych krajów, kuchnię międzynarodową i występy na żywo.;Rozrywka;Dubaj
+112;Dubai Miracle Garden;61,05;Największy na świecie ogród kwiatowy z imponującymi instalacjami i rzeźbami z kwiatów.;Rekreacja;Dubaj
+113;Desert Safari;166,5;Przygoda na pustyni obejmująca jazdę po wydmach, jazdę na wielbłądach, sandboarding i tradycyjną kolację beduińską.;Rekreacja;Dubaj
+114;Akwarium i Zoo Podwodne w Dubaju;133,2;Jedno z największych akwariów na świecie, mieszczące tysiące morskich stworzeń, w tym rekiny i płaszczki.;Rozrywka;Dubaj
+115;Muzeum Przyszłości (Museum of the Future);160,95;Nowoczesne muzeum prezentujące innowacje technologiczne i wizje przyszłości.;Zwiedzanie;Dubaj
+116;Plaża JBR (JBR Beach);0;Popularna publiczna plaża z udogodnieniami, restauracjami i możliwościami uprawiania sportów wodnych.;Plażowanie;Dubaj
+117;Madinat Jumeirah;0;Komplet inspirowany tradycyjną arabską architekturą z kanałami wodnymi, soukiem, restauracjami i luksusowymi hotelami.;Zwiedzanie;Dubaj
+118;Koloseum (Colosseo);67,36;Starożytny amfiteatr, symbol Rzymu, gdzie odbywały się walki gladiatorów i inne widowiska.;Zwiedzanie;Rzym
+119;Forum Romanum;0;Historyczne centrum życia politycznego i społecznego starożytnego Rzymu z licznymi ruinami świątyń i budynków publicznych (wliczone w bilet).;Zwiedzanie;Rzym
+120;Panteon;0;Doskonale zachowana świątynia z II wieku n.e., znana z imponującej kopuły i otworu w jej centrum.;Zwiedzanie;Rzym
+121;Fontanna di Trevi;0;Barokowa fontanna, do której turyści wrzucają monety, wierząc, że zapewni im to powrót do Rzymu.;Zwiedzanie;Rzym
+122;Schody Hiszpańskie (Piazza di Spagna);0;Słynne schody łączące plac Hiszpański z kościołem Trinità dei Monti, popularne miejsce spotkań.;Zwiedzanie;Rzym
+123;Plac Navona (Piazza Navona);0;Elegancki plac z trzema fontannami, otoczony barokowymi budynkami i kawiarniami.;Zwiedzanie;Rzym
+124;Zamek Świętego Anioła (Castel Sant'Angelo);63,15;Masywna forteca nad Tybrem, pierwotnie mauzoleum cesarza Hadriana, później używana jako zamek i muzeum.;Zwiedzanie;Rzym
+125;Bazylika św. Piotra (Basilica di San Pietro);0;Największy kościół chrześcijański na świecie, z imponującą architekturą i dziełami sztuki, w tym Pietą Michała Anioła.;Zwiedzanie;Rzym
+126;Muzea Watykańskie (Musei Vaticani);71,57;Rozległe zbiory sztuki i artefaktów zgromadzone przez papieży, w tym Kaplica Sykstyńska z freskami Michała Anioła.;Zwiedzanie;Rzym
+127;Kapitol (Campidoglio);0;Jedno z siedmiu wzgórz Rzymu, z placem zaprojektowanym przez Michała Anioła i widokiem na Forum Romanum.;Zwiedzanie;Rzym
+128;Bazylika św. Jana na Lateranie (San Giovanni in Laterano);0;Katedra biskupa Rzymu, uznawana za matkę wszystkich kościołów katolickich.;Zwiedzanie;Rzym
+129;Villa Borghese;0;Rozległy park miejski z ogrodami, jeziorami i muzeami, idealny na spacery i relaks.;Rekreacja;Rzym
+130;Galeria Borghese (Galleria Borghese);84,2;Muzeum sztuki mieszczące się w XVII-wiecznej willi, z kolekcją dzieł takich artystów jak Caravaggio, Bernini i Rafael.;Zwiedzanie;Rzym
+131;Termy Karakalli (Terme di Caracalla);33,68;Ruiny monumentalnych łaźni publicznych z III wieku n.e., świadectwo inżynierii starożytnego Rzymu.;Zwiedzanie;Rzym
+132;Campo de' Fiori;0;Tętniący życiem plac z codziennym targiem, otoczony restauracjami i kawiarniami.;Zwiedzanie;Rzym
+133;Bazylika Matki Bożej Większej (Santa Maria Maggiore);0;Jedna z czterech papieskich bazylik Rzymu, znana z mozaik i bogato zdobionych wnętrz.;Zwiedzanie;Rzym
+134;Katakumby św. Kaliksta (Catacombe di San Callisto);33,68;Podziemne cmentarze wczesnych chrześcijan z siecią tuneli i grobowców.;Zwiedzanie;Rzym
+135;Piazza del Popolo;0;Duży plac z obeliskiem, otoczony kościołami i historycznymi budynkami, często miejsce wydarzeń kulturalnych.;Zwiedzanie;Rzym
+136;Ołtarz Ojczyzny (Altare della Patria);0;Monumentalny pomnik upamiętniający zjednoczenie Włoch, z tarasem widokowym oferującym panoramę miasta.;Zwiedzanie;Rzym
+137;Dzielnica Trastevere;0;Urokliwa dzielnica z wąskimi uliczkami, tradycyjnymi trattoriami i tętniącą atmosferą.;Zwiedzanie;Rzym
+138;Akropol Ateński;84,2;Starożytne wzgórze z Partenonem i innymi zabytkami, symbol greckiej cywilizacji.;Zwiedzanie;Ateny
+139;Muzeum Akropolu;42,1;Nowoczesne muzeum prezentujące artefakty z Akropolu.;Zwiedzanie;Ateny
+140;Starożytna Agora;33,68;Dawne centrum polityczne i handlowe Aten z dobrze zachowaną świątynią Hefajstosa.;Zwiedzanie;Ateny
+141;Plaka;0;Malownicza dzielnica z wąskimi uliczkami, tradycyjnymi tawernami i sklepami z pamiątkami.;Kultura;Ateny
+142;Łuk Hadriana;0;Starożytny łuk triumfalny z II wieku n.e., oddzielający starą i nową część miasta.;Zwiedzanie;Ateny
+143;Świątynia Zeusa Olimpijskiego (Olimpiejon);25,26;Pozostałości największej świątyni w starożytnej Grecji, poświęconej Zeusowi.;Zwiedzanie;Ateny
+144;Stadion Panatenajski;21,05;Całkowicie marmurowy stadion, na którym odbyły się pierwsze nowożytne igrzyska olimpijskie w 1896 roku.;Zwiedzanie;Ateny
+145;Narodowe Muzeum Archeologiczne;42,1;Największe muzeum archeologiczne w Grecji z bogatą kolekcją artefaktów.;Zwiedzanie;Ateny
+146;Wzgórze Likavitos;0;Najwyższe wzgórze w Atenach, oferujące panoramiczne widoki na miasto.;Rekreacja;Ateny
+147;Dzielnica Anafiotika;0;Urokliwa część miasta z białymi domkami przypominającymi architekturę Cyklad.;Kultura;Ateny
+148;Ogród Narodowy;0;Zielona oaza w centrum miasta z egzotycznymi roślinami i stawami.;Rekreacja;Ateny
+149;Plac Syntagma;0;Główny plac miasta z Parlamentem i ceremonią zmiany warty przed Grobem Nieznanego Żołnierza.;Zwiedzanie;Ateny
+150;Teatr Dionizosa;0;Starożytny teatr u stóp Akropolu, uważany za kolebkę europejskiego teatru (wliczone w bilet na Akropol).;Zwiedzanie;Ateny
+151;Odeon Heroda Attyka;0;Starożytny teatr z II wieku n.e., obecnie wykorzystywany na koncerty i przedstawienia (wliczone w bilet na Akropol).;Zwiedzanie;Ateny
+152;Muzeum Benaki;37,89;Muzeum prezentujące grecką sztukę i kulturę od czasów prehistorycznych po współczesność.;Zwiedzanie;Ateny
+153;Agora Rzymska;25,26;Starożytne rzymskie forum z Wieżą Wiatrów i pozostałościami bibliotek.;Zwiedzanie;Ateny
+154;Muzeum Sztuki Cykladzkiej;29,47;Kolekcja sztuki cykladzkiej z charakterystycznymi marmurowymi figurkami.;Zwiedzanie;Ateny
+155;Klasztor Dafni;0;Bizantyjski klasztor z XI wieku, wpisany na listę UNESCO.;Zwiedzanie;Ateny
+156;Wzgórze Filopapposa;0;Wzgórze z pomnikiem Filopapposa i widokiem na Akropol.;Rekreacja;Ateny
+157;Plaża Vouliagmeni;21,05;Popularna plaża z czystą wodą i udogodnieniami, idealna na relaks.;Plażowanie;Ateny
+158;Tokyo Tower;44;Ikoniczna wieża telewizyjna z panoramicznym widokiem na Tokio.;Zwiedzanie;Tokyo
+159;Sensō-ji Temple;0;Najstarsza buddyjska świątynia w Tokio, z piękną architekturą.;Zwiedzanie;Tokyo
+160;Shibuya Crossing;0;Słynne skrzyżowanie symbolizujące pulsujące życie miasta.;Zwiedzanie;Tokyo
+161;Meiji Shrine;0;Spokojna świątynia otoczona bujnym lasem.;Zwiedzanie;Tokyo
+162;Imperial Palace East Gardens;0;Piękne ogrody cesarskie dostępne dla zwiedzających.;Zwiedzanie;Tokyo
+163;Ueno Zoo;22;Zoo z szeroką gamą zwierząt, idealne dla rodzin.;Zwiedzanie;Tokyo
+164;Akihabara;0;Centrum elektroniki i kultury otaku.;Zakupy;Tokyo
+165;Ginza District;0;Ekskluzywna dzielnica handlowa z luksusowymi butikami.;Zakupy;Tokyo
+166;teamLab Borderless (Odaiba);118;Interaktywne muzeum cyfrowej sztuki w Odaibie.;Rozrywka;Tokyo
+167;Roppongi Hills Observation Deck;66;Taras widokowy z panoramicznym widokiem na Tokio.;Zwiedzanie;Tokyo
+168;Tsukiji Outer Market;0;Słynny targ rybny z tradycyjnymi przekąskami.;Kulinaria;Tokyo
+169;Tokyo Skytree;78;Najwyższa wieża w Japonii z imponującym widokiem.;Zwiedzanie;Tokyo
+170;Shinjuku Gyoen;18;Piękny ogród w centrum Tokio, idealny na relaks.;Rekreacja;Tokyo
+171;Harajuku;0;Modna dzielnica znana z unikalnych stylizacji ulicznych.;Kultura;Tokyo
+172;Sumida Aquarium;78;Nowoczesne akwarium w Tokyo Skytree Town.;Rozrywka;Tokyo
+173;Edo-Tokyo Museum;22;Muzeum prezentujące historię Tokio od czasów Edo.;Zwiedzanie;Tokyo
+174;Roppongi Art Museum;66;Galeria sztuki współczesnej w sercu Roppongi.;Zwiedzanie;Tokyo
+175;National Museum of Nature and Science;23;Muzeum przyrodnicze z fascynującymi ekspozycjami.;Zwiedzanie;Tokyo
+176;Yoyogi Park;0;Popularny park miejski idealny na pikniki.;Rekreacja;Tokyo
+177;Odaiba Seaside Park;0;Park nadmorski z widokiem na futurystyczne budynki.;Rekreacja;Tokyo
+178;Sydney Opera House Tour;122;Ikoniczny budynek operowy, oferujący wycieczki z przewodnikiem.;Zwiedzanie;Sydney
+179;Sydney Harbour Bridge Climb;893;Wspinaczka po moście z zapierającymi dech widokami na port.;Zwiedzanie;Sydney
+180;Bondi Beach;0;Słynna plaża idealna do surfingu i opalania.;Plażowanie;Sydney
+181;Taronga Zoo;142;Zoo z unikalnymi australijskimi zwierzętami.;Zwiedzanie;Sydney
+182;Royal Botanic Garden;0;Ogród botaniczny z pięknymi widokami na port.;Rekreacja;Sydney
+183;Darling Harbour;0;Centrum rozrywki z restauracjami i atrakcjami wodnymi.;Rozrywka;Sydney
+184;The Rocks;0;Historyczna dzielnica z brukowanymi uliczkami i pubami.;Zwiedzanie;Sydney
+185;Sea Life Sydney Aquarium;113;Akwarium z fascynującą morską fauną.;Rozrywka;Sydney
+186;Luna Park Sydney;102;Park rozrywki z klasycznymi karuzelami i nowoczesnymi atrakcjami.;Rozrywka;Sydney
+187;Art Gallery of New South Wales;0;Muzeum sztuki z kolekcjami australijskimi i międzynarodowymi.;Zwiedzanie;Sydney
+188;Sydney Tower Eye;72;Wieża widokowa z panoramą miasta.;Zwiedzanie;Sydney
+189;Manly Beach;0;Popularna plaża dostępna promem z centrum miasta.;Plażowanie;Sydney
+190;Australian National Maritime Museum;72;Muzeum prezentujące historię żeglugi Australii.;Zwiedzanie;Sydney
+191;Queen Victoria Building;0;Historyczny dom towarowy z butikami.;Zakupy;Sydney
+192;Barangaroo Reserve;0;Nowoczesny park nadbrzeżny idealny na spacery.;Rekreacja;Sydney
+193;Sydney Fish Market;0;Targ rybny z świeżymi produktami morskim.;Kulinaria;Sydney
+194;Chinese Garden of Friendship;43;Tradycyjny chiński ogród w sercu Sydney.;Zwiedzanie;Sydney
+195;Cockatoo Island;57;Historyczna wyspa z możliwością zwiedzania.;Zwiedzanie;Sydney
+196;Centennial Park;0;Rozległy park idealny na pikniki.;Rekreacja;Sydney
+197;Darling Harbour West;0;Część Darling Harbour z restauracjami i przestrzenią rekreacyjną.;Rozrywka;Sydney
+198;Brandenburg Gate;0;Symbol Berlina, reprezentujący zjednoczenie Niemiec.;Zwiedzanie;Berlin
+199;Reichstag Building;0;Historyczny budynek parlamentu z imponującą szklaną kopułą.;Zwiedzanie;Berlin
+200;Berlin Wall Memorial;0;Miejsce pamięci po upadku muru berlińskiego.;Zwiedzanie;Berlin
+201;Pergamon Museum;80;Jedno z najważniejszych muzeów na Museum Island.;Zwiedzanie;Berlin
+202;Checkpoint Charlie Museum;59;Muzeum związane z historią Muru Berlińskiego.;Zwiedzanie;Berlin
+203;Alexanderplatz;0;Centralny plac z telewizorową wieżą.;Rekreacja;Berlin
+204;Berlin Cathedral;42;Imponująca katedra z bogatą historią.;Zwiedzanie;Berlin
+205;East Side Gallery;0;Zachowany fragment muru ozdobiony muralami.;Zwiedzanie;Berlin
+206;Potsdamer Platz;0;Nowoczesny plac z centrami handlowymi i kinami.;Rozrywka;Berlin
+207;Charlottenburg Palace;63;Barokowy pałac z pięknymi ogrodami.;Zwiedzanie;Berlin
+208;Gendarmenmarkt;0;Elegancki plac z katedrami i salą koncertową.;Zwiedzanie;Berlin
+209;Tiergarten;0;Rozległy park miejski idealny na spacery.;Rekreacja;Berlin
+210;Holocaust Memorial;0;Poruszający pomnik upamiętniający ofiary Holokaustu.;Zwiedzanie;Berlin
+211;Berlin Zoo;76;Jedno z najstarszych zoo w Europie.;Zwiedzanie;Berlin
+212;Kurfürstendamm;0;Słynna ulica handlowa z butikami.;Zakupy;Berlin
+213;Berlin TV Tower;72;Najwyższa wieża w Berlinie z tarasem widokowym.;Zwiedzanie;Berlin
+214;Jewish Museum Berlin;42;Muzeum prezentujące historię i kulturę żydowską.;Zwiedzanie;Berlin
+215;Berlin Philharmonic Tour;50;Wycieczka po słynnym budynku koncertowym.;Rozrywka;Berlin
+216;Mauerpark;0;Popularny park z pchlim targiem i ulicznymi występami.;Rekreacja;Berlin
+217;Tempelhof Park;0;Były port lotniczy przekształcony w park rekreacyjny.;Rekreacja;Berlin
+218;Anne Frank House;50;Muzeum poświęcone pamięci Anne Frank.;Zwiedzanie;Amsterdam
+219;Van Gogh Museum;80;Muzeum z największą kolekcją dzieł Van Gogha.;Zwiedzanie;Amsterdam
+220;Rijksmuseum;84;Słynne muzeum z dziełami Rembrandta i innych mistrzów.;Zwiedzanie;Amsterdam
+221;Canal Cruise;76;Rejs po malowniczych kanałach Amsterdamu.;Rozrywka;Amsterdam
+222;Dam Square;0;Centralny plac z Pałacem Królewskim.;Zwiedzanie;Amsterdam
+223;Vondelpark;0;Największy park miejski, idealny na pikniki.;Rekreacja;Amsterdam
+224;Heineken Experience;88;Interaktywna wycieczka po browarze Heinekena.;Rozrywka;Amsterdam
+225;Jordaan District;0;Urokliwa dzielnica z butikami i kafejkami.;Kultura;Amsterdam
+226;Royal Palace of Amsterdam;42;Historyczny pałac w centrum miasta.;Zwiedzanie;Amsterdam
+227;Red Light District;0;Znana dzielnica z unikalną atmosferą.;Zwiedzanie;Amsterdam
+228;Artis Zoo;105;Zoo z szeroką gamą egzotycznych zwierząt.;Zwiedzanie;Amsterdam
+229;Stedelijk Museum;76;Muzeum sztuki nowoczesnej i współczesnej.;Zwiedzanie;Amsterdam
+230;Rembrandt House Museum;63;Dom-muzeum poświęcone Rembrandtowi.;Zwiedzanie;Amsterdam
+231;Begijnhof;0;Spokojny dziedziniec historycznych budynków.;Zwiedzanie;Amsterdam
+232;Amsterdam Museum;63;Muzeum prezentujące historię miasta.;Zwiedzanie;Amsterdam
+233;NEMO Science Museum;72;Interaktywne muzeum nauki dla wszystkich grup wiekowych.;Zwiedzanie;Amsterdam
+234;De Pijp District;0;Modna dzielnica z kawiarniami i sklepami.;Kultura;Amsterdam
+235;Concertgebouw;126;Sala koncertowa o doskonałej akustyce.;Rozrywka;Amsterdam
+236;Flower Market;0;Pływający targ z kwiatami.;Zakupy;Amsterdam
+237;Amsterdamse Bos;0;Rozległy park leśny na obrzeżach miasta.;Rekreacja;Amsterdam
+238;Golden Gate Bridge;0;Ikoniczny most nad Zatoką San Francisco.;Zwiedzanie;San Francisco
+239;Alcatraz Island;162;Historyczna wyspa z dawnym więzieniem.;Zwiedzanie;San Francisco
+240;Fisherman's Wharf;0;Popularna dzielnica z restauracjami rybnymi.;Rozrywka;San Francisco
+241;Pier 39;0;Centrum rozrywki z sklepami i atrakcjami morskim.;Rozrywka;San Francisco
+242;Golden Gate Park;0;Rozległy park z ogrodami, muzeami i trasami spacerowymi.;Rekreacja;San Francisco
+243;Union Square;0;Centralny plac handlowy z butikami.;Zakupy;San Francisco
+244;Chinatown SF;0;Tętniąca życiem dzielnica z tradycyjnymi sklepami.;Kultura;San Francisco
+245;Lombard Street;0;Kręta ulica słynąca z pięknych ogrodów.;Zwiedzanie;San Francisco
+246;Coit Tower;61;Wieża widokowa z panoramicznym widokiem na miasto.;Zwiedzanie;San Francisco
+247;Exploratorium;122;Interaktywne muzeum nauki i technologii.;Zwiedzanie;San Francisco
+248;SFMOMA;102;Muzeum sztuki nowoczesnej z imponującą kolekcją.;Zwiedzanie;San Francisco
+249;Palace of Fine Arts;0;Piękny kompleks architektoniczny nad wodą.;Zwiedzanie;San Francisco
+250;Ghirardelli Square;0;Historyczny plac z butikami czekoladowymi.;Zakupy;San Francisco
+251;Ferry Building Marketplace;0;Centrum gastronomiczne z lokalnymi przysmakami.;Kulinaria;San Francisco
+252;Presidio of San Francisco;0;Były obszar wojskowy przekształcony w park i centrum rekreacyjne.;Rekreacja;San Francisco
+253;Oracle Park Tour;142;Wycieczka po stadionie baseballowym.;Rozrywka;San Francisco
+254;Twin Peaks;0;Wzgórza z panoramicznym widokiem na miasto.;Rekreacja;San Francisco
+255;de Young Museum;102;Muzeum sztuki amerykańskiej z bogatą kolekcją.;Zwiedzanie;San Francisco
+256;Japanese Tea Garden;41;Spokojny ogród w stylu japońskim w Golden Gate Park.;Rekreacja;San Francisco
+257;Mission District;0;Alternatywna dzielnica słynąca z murali i artystycznego klimatu.;Kultura;San Francisco
+258;Hagia Sophia;0;Historyczna budowla, niegdyś kościół i meczet, obecnie muzeum.;Zwiedzanie;Istanbul
+259;Blue Mosque;0;Imponujący meczet z sześcioma minaretami.;Zwiedzanie;Istanbul
+260;Topkapi Palace;100;Dawna rezydencja sułtanów z licznymi skarbnicami.;Zwiedzanie;Istanbul
+261;Grand Bazaar;0;Ogromny targ z tysiącami stoisk z wyrobami rękodzielniczymi.;Zakupy;Istanbul
+262;Basilica Cistern;40;Podziemny zbiornik wodny z atmosferą starożytności.;Zwiedzanie;Istanbul
+263;Spice Bazaar;0;Targ pełen aromatycznych przypraw i tradycyjnych produktów.;Kulinaria;Istanbul
+264;Galata Tower;60;Średniowieczna wieża oferująca panoramiczne widoki na miasto.;Zwiedzanie;Istanbul
+265;Dolmabahçe Palace;80;Luksusowy pałac z bogatymi zdobieniami i historią.;Zwiedzanie;Istanbul
+266;Taksim Square;0;Centralny plac z licznymi restauracjami i kawiarniami.;Rekreacja;Istanbul
+267;Istiklal Avenue;0;Ruchliwa ulica handlowa z kafejkami i butikami.;Zakupy;Istanbul
+268;Chora Church;35;Mały zabytkowy kościół z pięknymi mozaikami.;Zwiedzanie;Istanbul
+269;Suleymaniye Mosque;0;Imponujący meczet zbudowany przez Sulejmana Wspaniałego.;Zwiedzanie;Istanbul
+270;Istanbul Archaeology Museums;45;Muzeum prezentujące skarby starożytności.;Zwiedzanie;Istanbul
+271;Pierre Loti Café;20;Tradycyjna kawiarnia z widokiem na Złotą Rzekę.;Kultura;Istanbul
+272;Bosphorus Cruise;70;Rejs po Bosforze z widokiem na oba kontynenty.;Rozrywka;Istanbul
+273;Rumeli Fortress;50;Historyczna forteca nad Bosforem.;Zwiedzanie;Istanbul
+274;Miniaturk;30;Park miniatur z modelami najważniejszych zabytków Turcji.;Zwiedzanie;Istanbul
+275;Yildiz Park;0;Rozległy park miejski idealny na spacery.;Rekreacja;Istanbul
+276;Istanbul Modern Art Museum;55;Muzeum sztuki współczesnej prezentujące prace tureckich artystów.;Zwiedzanie;Istanbul
+277;Jewish Museum Istanbul;0;Muzeum prezentujące historię i kulturę żydowską w mieście.;Zwiedzanie;Istanbul
+278;Kremlin;0;Historyczna forteca będąca centrum władzy w Moskwie.;Zwiedzanie;Moscow
+279;Sobór Wasyla Błogosławionego;50;Ikoniczna cerkiew o kolorowych kopułach.;Zwiedzanie;Moscow
+280;Plac Czerwony;0;Centralny plac Moskwy, miejsce historycznych wydarzeń.;Zwiedzanie;Moscow
+281;Pushkin Museum;40;Muzeum sztuki z kolekcjami europejskimi i rosyjskimi.;Zwiedzanie;Moscow
+282;Bolszoj Teatr;120;Słynny teatr operowy i baletowy z bogatą historią.;Rozrywka;Moscow
+283;Nowy Arbat;0;Popularna ulica handlowa z butikami i kawiarniami.;Zakupy;Moscow
+284;GUM;0;Historyczny dom towarowy przy Placu Czerwonym.;Zakupy;Moscow
+285;Ostankino Tower;80;Wieża telewizyjna z tarasem widokowym.;Zwiedzanie;Moscow
+286;History Museum of Russia;60;Muzeum prezentujące historię Rosji.;Zwiedzanie;Moscow
+287;Izba Kopertowa;30;Ekspozycja historycznych monet i skarbów państwowych.;Zwiedzanie;Moscow
+288;Winter Park;0;Park miejski popularny w zimie.;Rekreacja;Moscow
+289;Tsaritsyno Park;40;Historyczny kompleks pałacowy z pięknymi ogrodami.;Rekreacja;Moscow
+290;Garage Museum of Contemporary Art;55;Muzeum sztuki współczesnej w nowoczesnym budynku.;Zwiedzanie;Moscow
+291;Bolshoi Theatre Tour;0;Wycieczka po prestiżowym teatrze operowym.;Rozrywka;Moscow
+292;Museum of Mars;45;Interaktywne muzeum poświęcone badaniom kosmosu.;Zwiedzanie;Moscow
+293;Golden Horn Room;35;Ekspozycja historycznych artefaktów i biżuterii.;Zwiedzanie;Moscow
+294;Old Arbat;0;Urokliwa artystyczna ulica z kawiarniami.;Kultura;Moscow
+295;Moscow Zoo;70;Jedno z największych zoo w Rosji.;Zwiedzanie;Moscow
+296;Borodino Hill;0;Malownicze miejsce z widokiem na pola bitewne.;Rekreacja;Moscow
+297;Moscow Contemporary Art Centre;30;Muzeum sztuki współczesnej z nowoczesnymi wystawami.;Zwiedzanie;Moscow
+298;Christ the Redeemer;120;Imponujący posąg Chrystusa na wzgórzu Corcovado.;Zwiedzanie;Rio de Janeiro
+299;Copacabana Beach;0;Jedna z najbardziej znanych plaż na świecie.;Plażowanie;Rio de Janeiro
+300;Ipanema Beach;0;Modna plaża z klimatycznymi barami i kafejkami.;Plażowanie;Rio de Janeiro
+301;Sugarloaf Mountain;100;Góra z zapierającym dech w piersiach widokiem na miasto i zatokę.;Zwiedzanie;Rio de Janeiro
+302;Maracanã Stadium;80;Słynny stadion piłkarski o bogatej historii.;Zwiedzanie;Rio de Janeiro
+303;Lapa Arches;0;Historyczne łuki akweduktu, symbol artystycznej dzielnicy.;Zwiedzanie;Rio de Janeiro
+304;Selarón Steps;0;Kolorowe schody ozdobione mozaikami przez artystę Selaróna.;Zwiedzanie;Rio de Janeiro
+305;Tijuca National Park;0;Ogromny park narodowy z bujną roślinnością.;Rekreacja;Rio de Janeiro
+306;Rio de Janeiro Botanical Garden;60;Piękny ogród botaniczny z różnorodnymi roślinami.;Zwiedzanie;Rio de Janeiro
+307;Museum of Tomorrow;50;Nowoczesne muzeum nauki i technologii eksplorujące przyszłość.;Zwiedzanie;Rio de Janeiro
+308;Santa Teresa;0;Artystyczna dzielnica z klimatycznymi uliczkami.;Kultura;Rio de Janeiro
+309;Leblon Beach;0;Ekskluzywna plaża popularna wśród mieszkańców.;Plażowanie;Rio de Janeiro
+310;Rodrigo de Freitas Lagoon;0;Malownicze jezioro otoczone parkami.;Rekreacja;Rio de Janeiro
+311;Boulevard Olímpico;0;Nowoczesna przestrzeń publiczna z muralami.;Kultura;Rio de Janeiro
+312;Niterói Contemporary Art Museum;70;Muzeum sztuki współczesnej położone po drugiej stronie zatoki.;Zwiedzanie;Rio de Janeiro
+313;Rio Art Museum;55;Muzeum prezentujące dzieła sztuki brazylijskiej.;Zwiedzanie;Rio de Janeiro
+314;Forte de Copacabana;30;Historyczna forteca przy plaży Copacabana.;Zwiedzanie;Rio de Janeiro
+315;Parque Lage;20;Piękny park z pałacem i malowniczymi alejkami.;Rekreacja;Rio de Janeiro
+316;Feira de São Cristóvão;0;Targ prezentujący kulturę północno-wschodniej Brazylii.;Kulinaria;Rio de Janeiro
+317;Centro Cultural Banco do Brasil;40;Centrum kulturalne z wystawami i wydarzeniami artystycznymi.;Kultura;Rio de Janeiro
+318;Pyramids of Giza;100;Imponujące starożytne piramidy, symbol egipskiej cywilizacji.;Zwiedzanie;Cairo
+319;Sphinx;0;Mityczny posąg z tajemniczym spojrzeniem.;Zwiedzanie;Cairo
+320;Egyptian Museum;70;Muzeum prezentujące skarby starożytnego Egiptu.;Zwiedzanie;Cairo
+321;Old Cairo;0;Historyczna część miasta z wąskimi uliczkami.;Zwiedzanie;Cairo
+322;Khan el-Khalili Bazaar;0;Tradycyjny targ z rękodziełem i przyprawami.;Zakupy;Cairo
+323;Saladin Citadel;50;Imponująca forteca z widokiem na Kair.;Zwiedzanie;Cairo
+324;Al-Azhar Mosque;0;Jedna z najstarszych meczetów, centrum edukacyjne.;Zwiedzanie;Cairo
+325;Islamic Art Museum;40;Muzeum prezentujące sztukę muzułmańską.;Zwiedzanie;Cairo
+326;Al-Azhar Gardens;0;Spokojne ogrody w otoczeniu zabytków.;Rekreacja;Cairo
+327;Muhammad Ali Mosque;60;Znany meczet w Cytadeli Saladin, imponujący architektonicznie.;Zwiedzanie;Cairo
+328;Coptic Cairo;0;Stara dzielnica z cerkwiami i muzeami koptyjskimi.;Zwiedzanie;Cairo
+329;Mameluk Palace;30;Historyczny pałac z epoki Mameluków.;Zwiedzanie;Cairo
+330;Nile Cruise;80;Rejs po Nilu z widokiem na zabytki i przyrodę.;Rozrywka;Cairo
+331;Coptic Museum;35;Muzeum prezentujące historię i sztukę koptyjską.;Zwiedzanie;Cairo
+332;Al-Azhar Park;0;Zielona przestrzeń do relaksu w centrum miasta.;Rekreacja;Cairo
+333;Ibn Tulun Mosque;40;Jedna z najstarszych budowli islamskich w Egipcie.;Zwiedzanie;Cairo
+334;Cairo History Museum;45;Muzeum dokumentujące dzieje Kairu.;Zwiedzanie;Cairo
+335;Mokattam Hill;0;Naturalne wzgórze z panoramicznym widokiem na Kair.;Rekreacja;Cairo
+336;Kair Oasis;0;Regiony zieleni wokół miasta.;Rekreacja;Cairo
+337;Heliopolis Modern District;0;Przykład współczesnej architektury w Kairze.;Zwiedzanie;Cairo
+338;Gateway of India;80;Imponujący łuk triumfalny nad brzegiem morza.;Zwiedzanie;Mumbai
+339;Chhatrapati Shivaji Terminus;0;Historyczny dworzec kolejowy o wiktoriańskiej architekturze.;Zwiedzanie;Mumbai
+340;Marine Drive;0;Popularna promenada nad Zatoką Arabską.;Rekreacja;Mumbai
+341;Elephanta Caves;162;Jaskinie z rzeźbami hinduskimi na wyspie.;Zwiedzanie;Mumbai
+342;Haji Ali Dargah;0;Sanktuarium religijne usytuowane na wysepce.;Zwiedzanie;Mumbai
+343;Crawford Market;0;Targ z lokalnymi produktami i wyrobami.;Zakupy;Mumbai
+344;Colaba Causeway;0;Znana ulica handlowa z pamiątkami.;Zakupy;Mumbai
+345;Mani Bhavan Gandhi Museum;40;Muzeum poświęcone życiu Mahatmy Gandhiego.;Zwiedzanie;Mumbai
+346;Prince of Wales Museum;50;Muzeum prezentujące historię Indii.;Zwiedzanie;Mumbai
+347;Juhu Beach;0;Popularna plaża w Mumbaju.;Plażowanie;Mumbai
+348;Sanjay Gandhi National Park;60;Park narodowy z dziką przyrodą i szlakami.;Rekreacja;Mumbai
+349;Hanging Gardens;0;Romantyczne ogrody z widokiem na miasto.;Rekreacja;Mumbai
+350;Bandra-Worli Sea Link;0;Nowoczesna konstrukcja łącząca dzielnice Mumbaju.;Zwiedzanie;Mumbai
+351;Siddhivinayak Temple;30;Świątynia hinduska poświęcona bogu Ganeszy.;Zwiedzanie;Mumbai
+352;Mahalaxmi Dhobi Ghat;0;Unikalny kompleks pralniczy o tradycyjnym charakterze.;Kultura;Mumbai
+353;Banganga Tank;0;Historyczne zbiorniki wodne otoczone starożytną architekturą.;Zwiedzanie;Mumbai
+354;Dr. Bhau Daji Lad Museum;35;Muzeum prezentujące sztukę i rzemiosło Mumbaju.;Zwiedzanie;Mumbai
+355;Worli Sea Face;0;Miejsce spacerowe z widokiem na morze.;Rekreacja;Mumbai
+356;Chor Bazaar;0;Targ znany z antyków i unikatowych przedmiotów.;Zakupy;Mumbai
+357;Kamala Nehru Park;20;Rodzinny park z widokiem na panoramę miasta.;Rekreacja;Mumbai
+358;Gyeongbokgung Palace;80;Imponujący pałac królewski z tradycyjną koreańską architekturą.;Zwiedzanie;Seoul
+359;Bukchon Hanok Village;0;Tradycyjna wioska z zachowanymi domami hanok.;Zwiedzanie;Seoul
+360;Myeongdong Shopping Street;0;Tętniąca życiem ulica handlowa z modnymi butikami.;Zakupy;Seoul
+361;N Seoul Tower;90;Wieża widokowa oferująca panoramiczne widoki na miasto.;Zwiedzanie;Seoul
+362;Changdeokgung Palace;60;Historyczny pałac z pięknymi ogrodami.;Zwiedzanie;Seoul
+363;Hongdae;0;Dzielnica artystyczna znana z klubów i ulicznych występów.;Kultura;Seoul
+364;Insadong;0;Tradycyjna dzielnica z antykami, herbaciarniami i galeriami.;Kultura;Seoul
+365;Dongdaemun Design Plaza;0;Nowoczesne centrum designu i mody.;Zwiedzanie;Seoul
+366;Itaewon;0;Multikulturowa dzielnica z licznymi restauracjami.;Kultura;Seoul
+367;Cheonggyecheon Stream;0;Odzyskany strumień w centrum miasta, idealny na spacery.;Rekreacja;Seoul
+368;Lotte World Tower;120;Najwyższy budynek w Seulu z tarasem widokowym.;Zwiedzanie;Seoul
+369;COEX Mall;0;Ogromne centrum handlowe z atrakcjami rozrywkowymi.;Zakupy;Seoul
+370;Bongeunsa Temple;40;Spokojna świątynia buddyjska w sercu Seulu.;Zwiedzanie;Seoul
+371;Gangnam District;0;Nowoczesna dzielnica znana z luksusowych butików.;Zakupy;Seoul
+372;Olympic Park;0;Rozległy park upamiętniający igrzyska olimpijskie.;Rekreacja;Seoul
+373;Seoul Forest;30;Nowoczesny park miejski z ogrodami i trasami spacerowymi.;Rekreacja;Seoul
+374;War Memorial of Korea;35;Muzeum poświęcone historii konfliktów Korei.;Zwiedzanie;Seoul
+375;Namdaemun Market;0;Tradycyjny targ z szerokim asortymentem towarów.;Zakupy;Seoul
+376;Digital Media City;0;Nowoczesna dzielnica skupiająca firmy medialne i technologiczne.;Kultura;Seoul
+377;Seoullo 7017;0;Przebudowany dawny most pieszy z widokami na miasto.;Rekreacja;Seoul
+378;Prague Castle;80;Imponujący kompleks zamkowy dominujący nad Pragą.;Zwiedzanie;Prague
+379;Charles Bridge;0;Historyczny most łączący Stare Miasto z Mala Strana.;Zwiedzanie;Prague
+380;Old Town Square;0;Centralny plac z zegarem astronomicznym.;Zwiedzanie;Prague
+381;St. Vitus Cathedral;50;Imponująca katedra na terenie Zamku Praskiego.;Zwiedzanie;Prague
+382;Golden Lane;40;Urokliwa uliczka z małymi domkami, dawniej zamieszkiwana przez rzemieślników.;Zwiedzanie;Prague
+383;Old Town;0;Historyczna część miasta z brukowanymi uliczkami.;Zwiedzanie;Prague
+384;Wenceslas Square;0;Główny plac handlowy i kulturalny Pragi.;Rekreacja;Prague
+385;Jewish Quarter;60;Historyczna dzielnica z synagogami i muzeami.;Zwiedzanie;Prague
+386;Petřín Hill;0;Wzgórze z pięknymi ogrodami i widokiem na Pragę.;Rekreacja;Prague
+387;Petřín Lookout Tower;30;Mała wieża widokowa na szczycie Petřína.;Zwiedzanie;Prague
+388;National Museum Prague;70;Muzeum prezentujące historię i kulturę Czech.;Zwiedzanie;Prague
+389;Old Town Hall;0;Historyczny budynek z zabytkowymi zegarami.;Zwiedzanie;Prague
+390;Botanical Garden Prague;0;Spokojny ogród z roślinnością z całego świata.;Rekreacja;Prague
+391;Wild Gardens;0;Nieformalne przestrzenie zielone w sercu miasta.;Rekreacja;Prague
+392;New Town District;0;Nowoczesna część Pragi z alternatywną atmosferą.;Kultura;Prague
+393;Lennon Wall;0;Mur z inspirującymi napisami, symbol wolności artystycznej.;Kultura;Prague
+394;Troja Castle;40;Mniejszy zamek zlokalizowany na obrzeżach Pragi.;Zwiedzanie;Prague
+395;New World;0;Modna ulica pełna butików i kawiarni.;Zakupy;Prague
+396;City Zoo Prague;50;Zoo z szeroką gamą zwierząt z różnych kontynentów.;Zwiedzanie;Prague
+397;Vyšehrad;0;Historyczna forteca z malowniczymi widokami na Pragę.;Zwiedzanie;Prague
+398;Schönbrunn Palace;120;Była letnia rezydencja cesarska z rozległymi ogrodami.;Zwiedzanie;Vienna
+399;St. Stephen's Cathedral;40;Gotycka katedra w sercu Wiednia.;Zwiedzanie;Vienna
+400;Hofburg Palace;80;Kompleks pałacowy, siedziba dawnych cesarzy.;Zwiedzanie;Vienna
+401;Belvedere Palace;70;"Barokowy pałac z kolekcją dzieł sztuki, m.in. ""Pocałunem"" Klimta.";Zwiedzanie;Vienna
+402;Vienna State Opera;100;Wybitna opera w pięknym budynku.;Rozrywka;Vienna
+403;Prater;0;Park rozrywki z słynnym diabelskim młynem.;Rozrywka;Vienna
+404;Albertina Museum;60;Muzeum z jedną z największych kolekcji grafik na świecie.;Zwiedzanie;Vienna
+405;Karlskirche;30;Barokowy kościół z imponującą kopułą.;Zwiedzanie;Vienna
+406;Vienna Zoo;70;Najstarsze zoo na świecie, mieszczące się na terenie Schönbrunn.;Zwiedzanie;Vienna
+407;MuseumsQuartier;0;Kulturalne centrum Wiednia z galeriami i kawiarniami.;Kultura;Vienna
+408;Graben;0;Elegancka ulica handlowa w centrum Wiednia.;Zakupy;Vienna
+409;Naschmarkt;0;Tętniący życiem targ z międzynarodową kuchnią.;Kulinaria;Vienna
+410;Stephansplatz;0;Plac otoczony zabytkowymi budynkami i sklepami.;Zwiedzanie;Vienna
+411;Kunsthistorisches Museum;80;Muzeum sztuki ze znakomitą kolekcją dzieł starych mistrzów.;Zwiedzanie;Vienna
+412;Leopold Museum;60;Muzeum sztuki współczesnej, szczególnie austriackiej.;Zwiedzanie;Vienna
+413;Vienna Ring Road;0;Słynna droga okrężna otaczająca centrum miasta.;Zwiedzanie;Vienna
+414;Spanish Riding School;90;Tradycyjna szkoła jazdy konnej prezentująca klasyczne ukazy.;Zwiedzanie;Vienna
+415;St. Peter's Church;0;Historyczny kościół z pięknymi witrażami.;Zwiedzanie;Vienna
+416;Augarten Park;0;Spokojny park z ogrodami i historycznymi manufakturami.;Rekreacja;Vienna
+417;Donauturm;90;Wieża widokowa na Dunaju z restauracją na szczycie.;Zwiedzanie;Vienna
+418;Hungarian Parliament Building;70;Imponujący budynek parlamentu nad Dunajem.;Zwiedzanie;Budapest
+419;Fisherman's Bastion;50;Historyczna konstrukcja z pięknymi widokami na miasto.;Zwiedzanie;Budapest
+420;Buda Castle;60;Historyczny kompleks zamkowy z muzeami i ogrodami.;Zwiedzanie;Budapest
+421;Széchenyi Thermal Bath;100;Słynne termy z basenami o właściwościach leczniczych.;Rekreacja;Budapest
+422;Chain Bridge;0;Ikoniczny most łączący oba brzegi Dunaju.;Zwiedzanie;Budapest
+423;St. Stephen's Basilica;40;Imponujący kościół z pięknymi witrażami.;Zwiedzanie;Budapest
+424;Gellért Hill;0;Wzgórze z panoramicznym widokiem na miasto.;Rekreacja;Budapest
+425;Central Market Hall;0;Targ z lokalnymi produktami i przysmakami.;Zakupy;Budapest
+426;Hungarian National Museum;60;Muzeum prezentujące historię Węgier.;Zwiedzanie;Budapest
+427;Opera House;80;Prestiżowy teatr operowy o światowej renomie.;Rozrywka;Budapest
+428;City Park (Városliget);0;Rozległy park z atrakcjami rekreacyjnymi.;Rekreacja;Budapest
+429;Dohány Street Synagogue;40;Największa synagoga w Europie, miejsce pamięci.;Zwiedzanie;Budapest
+430;Margaret Island;0;Zielona oaza na Dunaju, idealna na spacery.;Rekreacja;Budapest
+431;Hungarian State Opera;0;Nowoczesna scena operowa z licznymi występami.;Rozrywka;Budapest
+432;Heroes' Square;0;Plac upamiętniający węgierskich bohaterów narodowych.;Zwiedzanie;Budapest
+433;Hungarian National Gallery;60;Muzeum sztuki z kolekcją dzieł narodowych.;Zwiedzanie;Budapest
+434;Vajdahunyad Castle;0;Zamek mieszczący się w parku, o ciekawym wyglądzie.;Zwiedzanie;Budapest
+435;Liberty Bridge;0;Historyczny most łączący dwie części miasta.;Zwiedzanie;Budapest
+436;Kazinczy Street Market;0;Lokalny targ z rękodziełem i produktami spożywczymi.;Zakupy;Budapest
+437;Andrassy Avenue;0;Elegancka aleja z luksusowymi butikami.;Zakupy;Budapest
+438;Torre de Belém;50;Historyczna wieża nad Tagiem, symbol odkryć geograficznych.;Zwiedzanie;Lisbon
+439;Mosteiro dos Jerónimos;60;Klasyczny klasztor o bogatej historii i architekturze.;Zwiedzanie;Lisbon
+440;Alfama District;0;Najstarsza dzielnica Lizbony z wąskimi uliczkami.;Zwiedzanie;Lisbon
+441;Praça do Comércio;0;Przestronny plac nad Tagiem, serce historycznego centrum.;Zwiedzanie;Lisbon
+442;Elevador de Santa Justa;30;Historyczna winda łącząca różne poziomy miasta.;Zwiedzanie;Lisbon
+443;Castelo de São Jorge;70;Zamek z widokiem na całą Lizbonę.;Zwiedzanie;Lisbon
+444;Bairro Alto;0;Dzielnica znana z nocnego życia i restauracji.;Rozrywka;Lisbon
+445;LX Factory;0;Kreatywna przestrzeń z butikami, galeriami i kawiarniami.;Kultura;Lisbon
+446;Oceanário de Lisboa;80;Nowoczesne akwarium prezentujące morską faunę.;Zwiedzanie;Lisbon
+447;Museu Nacional do Azulejo;40;Muzeum poświęcone tradycyjnym portugalskim płytkom ceramicznym.;Zwiedzanie;Lisbon
+448;Padrão dos Descobrimentos;30;Monument upamiętniający epokę wielkich odkryć.;Zwiedzanie;Lisbon
+449;Chiado;0;Elegancka dzielnica kulturalna z kawiarniami i teatrami.;Kultura;Lisbon
+450;Jardim Botânico da Universidade de Lisboa;20;Ogród botaniczny pełen egzotycznych roślin.;Rekreacja;Lisbon
+451;Mercado da Ribeira;0;Targ gastronomiczny z ofertą lokalnych specjałów.;Kulinaria;Lisbon
+452;Fado Museum;35;Muzeum poświęcone tradycyjnej muzyce fado.;Kultura;Lisbon
+453;Cais do Sodré;0;Modna dzielnica nadbrzeżna z restauracjami i barami.;Rozrywka;Lisbon
+454;Santa Luzia Viewpoint;0;Punkt widokowy z malowniczymi panoramami miasta.;Zwiedzanie;Lisbon
+455;Calouste Gulbenkian Museum;60;Muzeum ze znakomitą kolekcją sztuki i artefaktów.;Zwiedzanie;Lisbon
+456;Parque das Nações;0;Nowoczesna dzielnica z przestrzeniami rekreacyjnymi i kulturalnymi.;Rekreacja;Lisbon
+457;Miradouro da Senhora do Monte;0;Punkt widokowy z przepięknym widokiem na Lizbonę.;Zwiedzanie;Lisbon
+458;Stanley Park;0;Ogromny park miejski z trasami rowerowymi i widokiem na ocean.;Rekreacja;Vancouver
+459;Granville Island;0;Kulturalne centrum z targiem, galeriami i teatrem.;Kultura;Vancouver
+460;Capilano Suspension Bridge;120;Słynny most wiszący nad kanionem.;Zwiedzanie;Vancouver
+461;Vancouver Aquarium;100;Akwarium z bogatą kolekcją morskich stworzeń.;Zwiedzanie;Vancouver
+462;Grouse Mountain;140;Góra z atrakcjami zimowymi i tarasem widokowym.;Zwiedzanie;Vancouver
+463;Canada Place;0;Ikoniczny kompleks nadbrzeżny z widowiskowym widokiem na ocean.;Zwiedzanie;Vancouver
+464;Vancouver Art Gallery;80;Muzeum sztuki prezentujące prace kanadyjskie i międzynarodowe.;Zwiedzanie;Vancouver
+465;Gastown;0;Historyczna dzielnica z brukowanymi uliczkami.;Kultura;Vancouver
+466;English Bay Beach;0;Popularna plaża miejska idealna do opalania i sportów wodnych.;Plażowanie;Vancouver
+467;Science World;70;Interaktywne muzeum nauki.;Zwiedzanie;Vancouver
+468;Lynn Canyon Park;0;Park z malowniczym mostem wiszącym.;Rekreacja;Vancouver
+469;Queen Elizabeth Park;0;Urokliwy park z ogrodami i widokiem na miasto.;Rekreacja;Vancouver
+470;Robson Street;0;Główna ulica handlowa z butikami i kawiarniami.;Zakupy;Vancouver
+471;Vancouver Lookout;90;Wieża widokowa z panoramą miasta.;Zwiedzanie;Vancouver
+472;VanDusen Botanical Garden;60;Piękny ogród botaniczny z kolekcją egzotycznych roślin.;Rekreacja;Vancouver
+473;Museum of Anthropology;70;Muzeum prezentujące rdzenną sztukę i kulturę ludów Północno-Zachodniego Pacyfiku.;Zwiedzanie;Vancouver
+474;Seawall Walk;0;Popularna trasa spacerowa wzdłuż wybrzeża.;Rekreacja;Vancouver
+475;Richmond Night Market;0;Tętniący życiem nocny targ z lokalnymi specjałami.;Kultura;Vancouver
+476;Kitsilano Beach;0;Plaża o czystym piasku i wspaniałych zachodach słońca.;Plażowanie;Vancouver
+477;FlyOver Canada;110;Symulator lotu nad krajobrazami Kanady.;Rozrywka;Vancouver
+478;Old Montreal;0;Historyczna dzielnica Montreal z brukowanymi uliczkami.;Zwiedzanie;Montreal
+479;Notre-Dame Basilica;40;Imponująca bazylika w secesyjnym stylu.;Zwiedzanie;Montreal
+480;Mount Royal Park;0;Park z widokiem na centrum miasta i przyrodą.;Rekreacja;Montreal
+481;Montreal Museum of Fine Arts;60;Bogata kolekcja sztuki klasycznej i nowoczesnej.;Zwiedzanie;Montreal
+482;Jean-Talon Market;0;Targ z lokalnymi produktami i przysmakami.;Kulinaria;Montreal
+483;St. Joseph's Oratory;30;Imponujący kompleks sakralny na wzgórzu.;Zwiedzanie;Montreal
+484;Montreal Botanical Garden;70;Ogromny ogród z setkami gatunków roślin.;Zwiedzanie;Montreal
+485;Biodome;80;Interaktywna ekspozycja prezentująca ekosystemy Ameryki.;Zwiedzanie;Montreal
+486;Underground City;0;Rozległy system podziemnych korytarzy handlowych.;Zakupy;Montreal
+487;La Ronde;100;Park rozrywki z licznymi atrakcjami dla rodzin.;Rozrywka;Montreal
+488;Plateau Mont-Royal;0;Modna dzielnica znana z artystycznej atmosfery.;Kultura;Montreal
+489;Olympic Stadium;0;Historyczny stadion z oryginalną architekturą.;Zwiedzanie;Montreal
+490;Montreal Science Centre;50;Interaktywne muzeum nauki dla młodzieży i dorosłych.;Zwiedzanie;Montreal
+491;McCord Museum;40;Muzeum prezentujące historię i kulturę Montrealu.;Zwiedzanie;Montreal
+492;Atwater Market;0;Targ z lokalnymi produktami spożywczymi.;Kulinaria;Montreal
+493;Clock Tower Beach;0;Popularne miejsce na plażowanie w mieście.;Plażowanie;Montreal
+494;Lachine Canal;0;Malowniczy kanał idealny na spacery i rejsy kajakowe.;Rekreacja;Montreal
+495;Bonsecours Market;0;Historyczny targ z pamiątkami i wyrobami rzemieślniczymi.;Zakupy;Montreal
+496;Parc Jean-Drapeau;0;Park miejski z licznymi atrakcjami rekreacyjnymi.;Rekreacja;Montreal
+497;Rue Saint-Denis;0;Ulica znana z barów, kawiarni i butików.;Kultura;Montreal
+498;Zócalo;0;Centralny plac Mexico City, serce historycznego centrum.;Zwiedzanie;Mexico City
+499;National Palace;40;Imponujący budynek z freskami i historycznymi zbiorami.;Zwiedzanie;Mexico City
+500;Frida Kahlo Museum;60;Muzeum poświęcone życiu i twórczości Fridy Kahlo.;Zwiedzanie;Mexico City
+501;Teotihuacan Pyramids;100;Historyczne piramidy i kompleks archeologiczny.;Zwiedzanie;Mexico City
+502;Xochimilco;50;Tradycyjne rejsy łodzią po kolorowych kanałach.;Rozrywka;Mexico City
+503;National Anthropology Museum;70;Jedno z najważniejszych muzeów archeologicznych.;Zwiedzanie;Mexico City
+504;Metropolitan Cathedral;0;Imponująca katedra w centrum miasta.;Zwiedzanie;Mexico City
+505;Chapultepec Park;0;Ogromny park miejski z licznymi atrakcjami.;Rekreacja;Mexico City
+506;Chapultepec Castle;50;Historyczna forteca w obrębie parku Chapultepec.;Zwiedzanie;Mexico City
+507;Coyoacan;0;Urokliwa dzielnica z klimatycznymi uliczkami.;Kultura;Mexico City
+508;Templo Mayor;40;Ruiny starożytnej świątyni azteckiej.;Zwiedzanie;Mexico City
+509;Modern Art Museum;0;Nowoczesne muzeum sztuki z imponującą kolekcją.;Zwiedzanie;Mexico City
+510;La Merced Market;0;Targ oferujący lokalne produkty i tradycyjne wyroby.;Zakupy;Mexico City
+511;Torre Latinoamericana;45;Wieżowiec z tarasem widokowym i ekspozycjami muzealnymi.;Zwiedzanie;Mexico City
+512;Plaza Garibaldi;0;Plac słynący z występów mariachi.;Rozrywka;Mexico City
+513;Alameda Central;0;Historyczny park miejski w centrum stolicy.;Rekreacja;Mexico City
+514;Polanco District;0;Ekskluzywna dzielnica z luksusowymi butikami.;Zakupy;Mexico City
+515;Ciudadela Artisan Market;0;Targ rękodzieła i pamiątek.;Zakupy;Mexico City
+516;Modern Art Museum (Alternative);50;Muzeum sztuki współczesnej z lokalnymi dziełami.;Zwiedzanie;Mexico City
+517;Jumex Museum;55;Nowoczesne muzeum sztuki międzynarodowej.;Zwiedzanie;Mexico City
+518;Grand Palace;150;Imponujący kompleks pałacowy, siedziba królów Tajlandii.;Zwiedzanie;Bangkok
+519;Wat Phra Kaew;150;Świątynia Szmaragdowego Buddy, jeden z najważniejszych zabytków.;Zwiedzanie;Bangkok
+520;Wat Arun;100;Piękna świątynia nad rzeką Chao Phraya.;Zwiedzanie;Bangkok
+521;Chatuchak Weekend Market;0;Ogromny targ z setkami stoisk z rękodziełem.;Zakupy;Bangkok
+522;Khao San Road;0;Słynna ulica backpackerów z barami i restauracjami.;Rozrywka;Bangkok
+523;Lumpini Park;0;Duży park miejski idealny na relaks i aktywność fizyczną.;Rekreacja;Bangkok
+524;Jim Thompson House;80;Dom-muzeum poświęcone tajskiemu jedwabiu.;Zwiedzanie;Bangkok
+525;MBK Center;0;Centrum handlowe z lokalnymi i międzynarodowymi markami.;Zakupy;Bangkok
+526;Asiatique The Riverfront;0;Nowoczesne centrum rozrywki nad rzeką.;Rozrywka;Bangkok
+527;Siam Paragon;0;Luksusowe centrum handlowe z butikami i kinem.;Zakupy;Bangkok
+528;Erawan Shrine;0;Świątynia znana z tradycyjnych rytuałów.;Zwiedzanie;Bangkok
+529;Terminal 21;0;Centrum handlowe z motywem podróżniczym.;Zakupy;Bangkok
+530;Dusit Zoo;70;Zoo z różnorodnymi gatunkami zwierząt.;Zwiedzanie;Bangkok
+531;Bangkok Art and Culture Centre;50;Centrum wystaw sztuki współczesnej.;Kultura;Bangkok
+532;Victory Monument;0;Monument upamiętniający zwycięstwa wojskowe.;Zwiedzanie;Bangkok
+533;Chinatown (Yaowarat);0;Głośna dzielnica z tradycyjnymi sklepami.;Zakupy;Bangkok
+534;Pratunam Market;0;Targ znany z odzieży w atrakcyjnych cenach.;Zakupy;Bangkok
+535;Benjakitti Park;0;Nowoczesny park miejski z trasami spacerowymi.;Rekreacja;Bangkok
+536;Rattanakosin Exhibition Hall;0;Centrum wystaw prezentujące historię Tajlandii.;Zwiedzanie;Bangkok
+537;Wat Pho;90;Świątynia z ogromnym leżącym Buddą.;Zwiedzanie;Bangkok
+538;Plaza de Mayo;0;Centralny plac Buenos Aires, symbol miasta.;Zwiedzanie;Buenos Aires
+539;Casa Rosada;0;Siedziba prezydenta Argentyny.;Zwiedzanie;Buenos Aires
+540;Teatro Colón;80;Słynny teatr operowy o doskonałej akustyce.;Rozrywka;Buenos Aires
+541;Recoleta Cemetery;0;Słynne cmentarzysko z imponującymi grobowcami.;Zwiedzanie;Buenos Aires
+542;Caminito in La Boca;30;Kolorowa uliczka z tradycyjną argentyńską kulturą.;Zwiedzanie;Buenos Aires
+543;Palermo Soho;0;Modna dzielnica z butikami i kawiarenkami.;Kultura;Buenos Aires
+544;San Telmo Market;0;Targ z antykami i lokalnymi przysmakami.;Zakupy;Buenos Aires
+545;MALBA;50;Muzeum sztuki latynoamerykańskiej.;Zwiedzanie;Buenos Aires
+546;Puerto Madero;0;Nowoczesna dzielnica portowa z restauracjami.;Zwiedzanie;Buenos Aires
+547;Jardín Japonés;40;Spokojny ogród w stylu japońskim, idealny na relaks.;Rekreacja;Buenos Aires
+548;Obelisk;0;Symbol miasta położony przy Plaza de Mayo.;Zwiedzanie;Buenos Aires
+549;El Ateneo Grand Splendid;0;Historyczny dom książki uznawany za jeden z najpiękniejszych.;Kultura;Buenos Aires
+550;Modern Art Museum of Buenos Aires;40;Muzeum prezentujące nowoczesną sztukę argentyńską.;Zwiedzanie;Buenos Aires
+551;Costanera Sur;0;Nadbrzeżna promenada idealna do spacerów.;Rekreacja;Buenos Aires
+552;Floralis Genérica;0;Gigantyczna rzeźba kwiatowa zmieniająca kolory.;Zwiedzanie;Buenos Aires
+553;Parque Tres de Febrero;0;Rozległy park miejski popularny wśród rodzin.;Rekreacja;Buenos Aires
+554;Café Tortoni;20;Klasyczna kawiarnia z tradycją sięgającą początku XX wieku.;Kulinaria;Buenos Aires
+555;Museo Evita;35;Muzeum poświęcone życiu i działalności Evity Perón.;Zwiedzanie;Buenos Aires
+556;Barrio Chino;0;Dzielnica chińska z tradycyjnymi restauracjami.;Kultura;Buenos Aires
+557;Avenida Corrientes;0;Ulica znana z teatrów i restauracji, centrum nocnego życia.;Rozrywka;Buenos Aires

@@ -35,11 +35,21 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'wycieczkomat.urls'
 
-# Jeśli potrzebujesz dodać ścieżki do Twoich szablonów HTML:
+# Konfiguracja plików statycznych
+STATIC_URL = '/static/'
+
+STATICFILES_DIRS = [
+    BASE_DIR / "wycieczkomat/static",  # Upewnij się, że masz właściwy katalog
+]
+
+# Katalog, do którego Django zbierze wszystkie pliki statyczne po użyciu collectstatic
+STATIC_ROOT = BASE_DIR / "staticfiles"
+
+# Konfiguracja szablonów
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],  # Dodaj tutaj ścieżki do katalogów z szablonami, np. [BASE_DIR / "templates"]
+        'DIRS': [BASE_DIR / "wycieczkomat/templates"],  # Katalog z szablonami
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -88,7 +98,14 @@ TIME_ZONE = 'Europe/Warsaw'
 USE_I18N = True
 USE_TZ = True
 
-# Static files (CSS, JavaScript, Images)
-STATIC_URL = 'static/'
-
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+# Konfiguracja wysyłania e-maili przy użyciu SMTP Brevo
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'wycieczkomat@gmail.com'       # Twój adres Gmail
+EMAIL_HOST_PASSWORD = 'oeygdxtivwexdtda'  # Hasło do aplikacji lub Twoje hasło (patrz uwagi poniżej)
+DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

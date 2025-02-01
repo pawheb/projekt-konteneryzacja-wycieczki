@@ -1,5 +1,22 @@
 
 services:
+  db:
+    image: postgres:17
+    restart: always
+    environment:
+      POSTGRES_DB: wycieczkomat
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres", "-h", "localhost"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
   web:
     build: .
     command: python manage.py runserver 0.0.0.0:8000
@@ -12,20 +29,10 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
       - POSTGRES_HOST=db
-      - POSTGRES_PORT=5433
+      - POSTGRES_PORT=5432
     depends_on:
-      - db
+      db:
+        condition: service_healthy  # <-- czekaj, aż db będzie "healthy"
 
-  db:
-    image: postgres:17
-    restart: always
-    environment:
-      POSTGRES_DB: wycieczkomat
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-    volumes:
-      - postgres_data:/var/lib/postgresql/data/
-    ports:
-      - "5433:5432"  # <-- Dodaj tę linię, aby wystawić port
 volumes:
   postgres_data:
