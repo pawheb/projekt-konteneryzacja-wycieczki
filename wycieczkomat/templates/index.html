@@ -25,24 +25,18 @@
       <div id="plan-szczegoly" class="plan-details" style="display: none;"></div>
     </section>
 
-    <!-- Sekcja dla indywidualnego planu -->
-    <section id="indywidualny-plan" class="section-container">
-      <h2>Stwórz indywidualny plan w PDF</h2>
-      <form id="plan-form">
-        <div class="form-group">
-          <label for="form-city">Wybierz miasto:</label>
-          <select id="form-city" name="city" required>
-            <option value="">-- Wybierz miasto --</option>
-            <option value="Nowy Jork">Nowy Jork</option>
-            <option value="Londyn">Londyn</option>
-            <option value="Paryż">Paryż</option>
-            <option value="Barcelona">Barcelona</option>
-            <option value="Kapsztad">Kapsztad</option>
-            <option value="Dubaj">Dubaj</option>
-            <option value="Rzym">Rzym</option>
-            <option value="Ateny">Ateny</option>
-          </select>
-        </div>
+        <!-- Sekcja dla indywidualnego planu -->
+        <section id="indywidualny-plan" class="section-container">
+          <h2>Stwórz indywidualny plan w PDF</h2>
+          <form id="plan-form">
+            <div class="form-group">
+              <label for="form-city">Wybierz miasto:</label>
+              <select id="form-city" name="city" required>
+                <option value="">-- Wybierz miasto --</option>
+                <!-- Opcje miast będą dynamicznie dodawane przez JavaScript -->
+              </select>
+            </div>
+
 
         <div class="form-group">
           <label for="preferences">Preferencje (rodzaj wycieczki):</label>

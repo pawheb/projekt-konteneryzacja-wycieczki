@@ -35,4 +35,3 @@ class Command(BaseCommand):
                     attraction.category = row['Kategoria'].strip()
                     attraction.city = row['Miasto'].strip()
                     attraction.save()
-                self.stdout.write(self.style.SUCCESS(f"Zaimportowano atrakcję: {attraction.name}"))

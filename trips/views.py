@@ -10,7 +10,7 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-from .models import Trip, Attraction
+from .models import Trip, Attraction, City
 
 def list_trips(request):
     """
@@ -37,6 +37,9 @@ def trip_detail(request, trip_id):
     except Trip.DoesNotExist:
         raise Http404("Plan wycieczki nie został znaleziony.")
 
+    # Pobieramy atrakcje przypisane do wycieczki – zwracamy listę nazw atrakcji.
+    attractions_list = [attraction.name for attraction in trip.attractions.all()]
+
     trip_data = {
         'id': trip.id,
         'name': trip.name,
@@ -44,8 +47,7 @@ def trip_detail(request, trip_id):
         'start_date': trip.start_date.strftime('%Y-%m-%d'),
         'end_date': trip.end_date.strftime('%Y-%m-%d'),
         'price': str(trip.price),
-        'description': getattr(trip, 'description', ''),
-        'itinerary': getattr(trip, 'itinerary', ''),
+        'attractions': attractions_list,
     }
     return JsonResponse(trip_data)
 
@@ -81,12 +83,23 @@ def generate_pdf(plan_data):
     if 'attractions' in plan_data:
         p.drawString(100, 700, "Atrakcje:")
         y = 680
-        for line in plan_data['attractions'].split("\n"):
-            p.drawString(120, y, line)
-            y -= 20
-            if y < 50:
-                p.showPage()
-                y = 800
+        attractions = plan_data['attractions']
+        # Jeśli atrakcje są listą, iterujemy po elementach
+        if isinstance(attractions, list):
+            for attraction in attractions:
+                p.drawString(120, y, attraction)
+                y -= 20
+                if y < 50:
+                    p.showPage()
+                    y = 800
+        # Jeśli atrakcje są tekstem, dzielimy na linie
+        elif isinstance(attractions, str):
+            for line in attractions.split("\n"):
+                p.drawString(120, y, line)
+                y -= 20
+                if y < 50:
+                    p.showPage()
+                    y = 800
 
     p.drawString(100, 40, "Dziękujemy za skorzystanie z naszej aplikacji!")
     p.showPage()
@@ -94,6 +107,7 @@ def generate_pdf(plan_data):
     pdf = buffer.getvalue()
     buffer.close()
     return pdf
+
 
 @csrf_exempt
 def generate_trip_pdf(request, trip_id):
@@ -115,14 +129,18 @@ def generate_trip_pdf(request, trip_id):
         except Trip.DoesNotExist:
             return JsonResponse({'error': 'Plan wycieczki nie istnieje.'}, status=404)
 
+        # Pobieramy atrakcje przypisane do planu wycieczki
+        attractions = trip.attractions.all()
+        # Przygotowujemy listę, która zawiera nazwę oraz cenę każdej atrakcji.
+        attractions_list = [f"{attraction.name} - {attraction.price}" for attraction in attractions]
+
         plan_data = {
             'name': trip.name,
             'city': ", ".join(city.name for city in trip.cities.all()),
             'start_date': trip.start_date.strftime('%Y-%m-%d'),
             'end_date': trip.end_date.strftime('%Y-%m-%d'),
             'price': str(trip.price),
-            'description': getattr(trip, 'description', ''),
-            'itinerary': getattr(trip, 'itinerary', ''),
+            'attractions': attractions_list,
         }
 
         pdf_file = generate_pdf(plan_data)
@@ -146,7 +164,6 @@ def generate_trip_pdf(request, trip_id):
         return response
     else:
         return JsonResponse({'error': 'Metoda niedozwolona.'}, status=405)
-
 @csrf_exempt
 def create_individual_plan(request):
     """
@@ -188,6 +205,9 @@ def create_individual_plan(request):
         attractions_list = [f"{attr.name} - {attr.price}" for attr in attractions_qs]
         attractions_text = "\n".join(attractions_list) if attractions_list else "Brak atrakcji spełniających kryteria."
 
+        # Oblicz cenę wycieczki jako sumę cen wszystkich pasujących atrakcji
+        total_price = sum(attr.price for attr in attractions_qs)
+
         plan_data = {
             'name': "Indywidualny Plan Wycieczki",
             'city': city,
@@ -195,6 +215,7 @@ def create_individual_plan(request):
             'start_date': start_date,
             'end_date': end_date,
             'attractions': attractions_text,
+            'price': str(total_price)  # Dodajemy obliczoną cenę
         }
 
         pdf_file = generate_pdf(plan_data)
@@ -218,3 +239,8 @@ def create_individual_plan(request):
         return response
     else:
         return JsonResponse({'error': 'Metoda niedozwolona.'}, status=405)
+
+def list_cities(request):
+    cities = City.objects.all()
+    cities_list = [{'name': city.name} for city in cities]
+    return JsonResponse({'cities': cities_list})
