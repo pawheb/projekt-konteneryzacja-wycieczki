@@ -10,7 +10,7 @@ SECRET_KEY = 'django-insecure-++2)6&l^g*sjq&79hwk(o6#--92hmv(y1jsxul9t^=z0a@+$5l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = []
 
 # Application definition
 INSTALLED_APPS = [
@@ -67,8 +67,12 @@ WSGI_APPLICATION = 'wycieczkomat.wsgi.application'
 # Konfiguracja bazy danych - PostgreSQL
 DATABASES = {
     'default': {
-    'ENGINE': 'django.db.backends.sqlite3',  # SQLite engine
-    'NAME': BASE_DIR / 'db.sqlite3',         # SQLite database file (located in the project folder)
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('POSTGRES_DB') or 'wycieczkomat',
+        'USER': os.environ.get('POSTGRES_USER') or 'postgres',
+        'PASSWORD': os.environ.get('POSTGRES_PASSWORD') or 'postgres',
+        'HOST': os.environ.get('POSTGRES_HOST') or 'db',
+        'PORT': os.environ.get('POSTGRES_PORT') or '5433',
     }
 }
 
