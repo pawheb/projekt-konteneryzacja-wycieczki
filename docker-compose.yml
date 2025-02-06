@@ -1,4 +1,3 @@
-
 services:
   db:
     image: postgres:17
@@ -9,8 +8,8 @@ services:
       POSTGRES_PASSWORD: postgres
     volumes:
       - postgres_data:/var/lib/postgresql/data/
-    ports:
-      - "5433:5432"
+    networks:
+      - backend
     healthcheck:
       test: ["CMD", "pg_isready", "-U", "postgres", "-h", "localhost"]
       interval: 5s
@@ -24,6 +23,8 @@ services:
       - .:/app
     ports:
       - "8000:8000"
+    networks:
+      - backend
     environment:
       - POSTGRES_DB=wycieczkomat
       - POSTGRES_USER=postgres
@@ -36,3 +37,7 @@ services:
 
 volumes:
   postgres_data:
+
+networks:
+  backend:
+    driver: bridge
